@@ -1,0 +1,7 @@
+{
+  "name": "galerifoto",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
